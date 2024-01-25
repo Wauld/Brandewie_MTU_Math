@@ -1,0 +1,43 @@
+Fiddle File
+QCL
+minimize
+3 # number of variables
+1 # number of constraints
+1275 # number of quadratic terms in objective
+1 2 3.0
+4 5 6.0
+7 8 9.0
+0.0 # default value for linear coefficients in objective
+
+0 # number of non-default linear coefficients in objective
+
+0.0 # objective constant
+
+50 # number of linear terms in all constraints
+
+1.79769313486232E+308 # value for infinity
+
+1.0 # default left-hand-side value
+0 # number of non-default left-hand-sides
+
+1.0 # default right-hand-side value
+0 # number of non-default right-hand-sides
+
+0.0 # default variable lower bound value
+0 # number of non-default variable lower bounds
+
+1.79769313486232E+308 # default variable upper bound value
+0 # number of non-default variable upper bounds
+
+0.0 # default variable primal value in starting point
+0 # number of non-default variable primal values in starting point
+
+0.0 # default constraint dual value in starting point
+0 # number of non-default constraint dual values in starting point
+
+0.0 # default variable bound dual value in starting point
+0 # number of non-default variable bound dual values in starting point
+
+0 # number of non-default variable names
+
+0 # number of non-default constraint names
